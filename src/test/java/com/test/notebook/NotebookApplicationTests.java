@@ -1,4 +1,4 @@
-package com.altimetrik.notebook;
+package com.test.notebook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
